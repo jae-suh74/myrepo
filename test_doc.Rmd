@@ -41,4 +41,3 @@ New code!
 # This is generating 10 numbers from a standard normal distribution
 rnorm(10)
 ```
-Hello. Another line.
