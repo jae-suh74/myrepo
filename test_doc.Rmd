@@ -36,3 +36,9 @@ ggplot(aes(speed, dist)) +
   geom_point()
 ```
 
+New code!
+```{r}
+# This is generating 10 numbers from a standard normal distribution
+rnorm(10)
+```
+

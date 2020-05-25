@@ -35,3 +35,13 @@ Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
 
 ![](test_doc_files/figure-gfm/speed_dist-1.png)<!-- -->
+
+New code\!
+
+``` r
+# This is generating 10 numbers from a standard normal distribution
+rnorm(10)
+```
+
+    ##  [1]  0.8057807 -1.5022644 -1.3313605 -0.6154944  0.6018403 -1.3408382
+    ##  [7]  1.0989302 -0.2878928  0.5562174  0.5753227
